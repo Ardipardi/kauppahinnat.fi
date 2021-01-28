@@ -261,7 +261,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
         return (
             <div
                 style={{
-                display: 'flex',
+                display: 'block',
                 }}
             >
             <input
