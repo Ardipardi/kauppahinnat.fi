@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Project purpose
+
+This project is the gradeable part of LUT-University course CT10A7041 - React.js, UX & Software design
+
+## Note:
+
+This project is solely created for learning purposes and should not be published or used without permission of creators and owners of the used data (asuntojen.hintatiedot.fi and parties with data publishing agreement by Kiinteistönvälitysalan Keskusliitto).
+
+## Required libraries to run this project
+
+- React
+- React Bootstrap
+- React Table
+- Nivo
+
+
+---
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
