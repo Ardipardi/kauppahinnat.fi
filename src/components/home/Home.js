@@ -190,7 +190,7 @@ export default function Home({ transactionsByCity }) {
         <div style={{ maxHeight: "500", width: "80%" }}>
           <h6>
             {" "}
-            {regionInfoActive === "Suomi" ? "" : regionInfoActive + " -"} kaupat
+            {regionInfoActive === "Suomi" ? "" : regionInfoActive + " -"} Kaupat
             kaupungeittain
           </h6>
 

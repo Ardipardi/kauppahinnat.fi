@@ -35,7 +35,6 @@ export default function ZipView(props) {
       <h1 style={{ padding: "50px" }}>Postinumero: {zip}</h1>
       <div className="flex-container">
         <div style={{ width: "100%" }}>
-            <h5>Tilastoja huonekohtaisesti</h5>
             <Grid
                 data={summaryByRooms}
                 width="100%"

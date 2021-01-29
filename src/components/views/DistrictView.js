@@ -44,7 +44,6 @@ export default function DistrictView(props) {
       <h1 style={{ padding: "50px" }}>{district}</h1>
       <div className="flex-container">
         <div style={{ width: "100%" }}>
-            <h5>Tilastoja huonekohtaisesti</h5>
             <Grid
                 data={summaryByRooms}
                 width="100%"
